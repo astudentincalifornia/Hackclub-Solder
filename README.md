@@ -5,7 +5,8 @@ Did Linux eat your RAM again?! A simple double SR Latch circuit connected to the
 1. Can run LLMs*
 2. Vibration
 3. Idk why it would ever be needed
-<br>*you would need over 128000000000 of this item and need to make necessary modifications
+<br>
+*you would need over 128000000000 of this item and need to make necessary modifications
 
 ## BOM
 1 Battery Holder
@@ -25,5 +26,7 @@ Did Linux eat your RAM again?! A simple double SR Latch circuit connected to the
 
 ---
 Made by '@ilikebananas' as a part of http://solder.hackclub.com/!
-<br>Bananas,
-<br>Yilin Z.
+<br>
+Bananas,
+<br>
+Yilin Z.
