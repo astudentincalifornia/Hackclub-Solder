@@ -1,4 +1,4 @@
-# My First PCB design
+# No Fear Linux, the ram eater
 Did Linux eat your RAM again?! A simple double SR Latch circuit connected to the same reset acts as a simple 2-bit memory. It is controlled by two buttons and reset by one.
 
 ## Features
