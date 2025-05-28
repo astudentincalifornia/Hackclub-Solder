@@ -25,5 +25,5 @@ A simple double SR Latch circuit connected to the same reset. Acts as a simple 2
 
 ---
 Made by '@ilikebananas' as a part of http://solder.hackclub.com/!
-Bananas,
-Yilin Z.
+\nBananas,
+\nYilin Z.
