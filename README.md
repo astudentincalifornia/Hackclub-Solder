@@ -1,5 +1,5 @@
 # My First PCB design
-A simple double SR Latch circuit connected to the same reset. Acts as a simple 2 Bit memory. Controlled by 2 buttons and reset by one.
+Did Linux eat your RAM again?! A simple double SR Latch circuit connected to the same reset acts as a simple 2-bit memory. It is controlled by two buttons and reset by one.
 
 ## Features
 1. Can run LLMs*
