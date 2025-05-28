@@ -9,12 +9,12 @@ Did Linux eat your RAM again?! A simple double SR Latch circuit connected to the
 *you would need over 128000000000 of this item and need to make necessary modifications
 
 ## BOM
-1 Battery Holder
-4 LEDs
-1 Motor_DC
-6 NPN 2N3904 Transistors
-17 Resistors (220 Ohms)
-3 Push Switches
+<br>1 Battery Holder
+<br>4 LEDs
+<br>1 Motor_DC
+<br>6 NPN 2N3904 Transistors
+<br>17 Resistors (220 Ohms)
+<br>3 Push Switches
 
 ## Schematic
 ![pcbsch](https://github.com/user-attachments/assets/83500a27-7184-41fe-bed4-c245e005c055)
